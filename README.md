@@ -1,3 +1,3 @@
-🎬 vidio.com-epg
+🎬 Raalndom EPG
 
-Electronic Program Guide (EPG) generator for vidio.com
+Electronic Program Guide (EPG) 
