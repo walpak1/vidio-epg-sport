@@ -1,3 +1,3 @@
 🎬 Random EPG
 
-![Alt text](https://i.imgur.com/x1d1XMO.png)
+![Alt text](assets/epg.png)
