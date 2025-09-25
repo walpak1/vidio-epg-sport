@@ -8,7 +8,7 @@
 
 ## 🏆 Badges  
 ![Status](https://img.shields.io/badge/status-updated-success.svg)  
-![Format](https://img.shields.io/badge/format-XMLTV-blue.svg)  
+![Format](https://img.shields.io/badge/format-XML-blue.svg)  
 
 ---
 
